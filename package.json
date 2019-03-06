@@ -1,0 +1,23 @@
+{
+  "name": "inspirebot",
+  "version": "1.0.0",
+  "description": "Twitter sentiment analyser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamish",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harfish/inspirebot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Harfish/inspirebot/issues"
+  },
+  "homepage": "https://github.com/Harfish/inspirebot#readme"
+}
